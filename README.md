@@ -1,1 +1,1 @@
-# study
+# disease prediction
